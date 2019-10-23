@@ -1,0 +1,38 @@
+{
+  "name": "ap-node-server",
+  "version": "1.0.0",
+  "description": "Created node server for demonstration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhayPai/basic-server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "basic",
+    "server",
+    "abhay",
+    "pai",
+    "pai",
+    "abhay",
+    "path",
+    "http",
+    "nodemon",
+    "abhay",
+    "pai",
+    "abhay",
+    "pai",
+    "github"
+  ],
+  "author": "Abhay Pai",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "homepage": "https://github.com/AbhayPai/basic-server#readme"
+}

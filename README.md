@@ -1,5 +1,5 @@
 # Node Js Server
-[Live Demo](https://ap-node-server.herokuapp.com/)
+[Live Demo](https://ap-nodejs-server.herokuapp.com/)
 
 ## Modules used in this project are as follows:-
 * fs
